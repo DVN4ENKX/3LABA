@@ -1,0 +1,113 @@
+.texts {
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    margin-bottom: 16px;
+}
+
+.text1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 36px;
+    margin-left: 32px;
+    width: 181px;
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15px;
+}
+
+.text2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(97, 83, 204, 1);
+    margin-right: 32px;
+    width: 319px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+
+.z {
+    width: 92px;
+    border-bottom: 2px solid #6153CC;
+}
+
+.word1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.text2>div:hover {
+    border: 1px solid black;
+}
+
+.statuce {
+    width: 100px;
+}
+
+.vac {
+    width: 135px;
+}
+
+.dol {
+    width: 151px;
+}
+
+.rol {
+    width: 151px;
+}
+
+.fio {
+    width: 115px;
+}
+
+.sta {
+    width: 86px;
+}
+
+.stav {
+    width: 81px;
+}
+
+.fun {
+    width: 121px;
+}
+
+.cat {
+    width: 161px;
+}
+
+.blo {
+    width: 20px;
+}
+
+.stav1 {
+    text-align: right;
+}
+
+th, td {
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+.ff
+{
+    width: 1280px;
+    background-color: coral;
+
+}

@@ -1,0 +1,36 @@
+.table{
+    margin-top: 44px;
+    margin-left:16px ;
+    width: 1230px;
+}
+table {
+    border-collapse: collapse;	
+}
+tr{
+	border-bottom: 1px solid #CCC;
+}
+.blo{
+    width:58px;
+}
+.blo img {margin-left:15px ;}
+
+th {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+	
+}
+
+td {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.sta, 
+.status {
+	color: #B0A9E6;
+}
